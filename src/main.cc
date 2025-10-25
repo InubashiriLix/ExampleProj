@@ -1,6 +1,3 @@
-#include <chrono>
 #include <iostream>
-#include <utility>
-#include <vector>
 
-int main() { return 0; }
+int main() { std::cout << "Hello world\n" << std::endl; }
